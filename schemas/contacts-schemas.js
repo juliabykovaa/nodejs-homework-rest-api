@@ -17,9 +17,3 @@ export default {
   contactsAddSchema,
   contactUpdateFavoriteSchema,
 };
-
-// {
-//     "name": "Allen Raymond",
-//     "email": "nulla.ante@vestibul.co.uk",
-//     "phone": "(992) 914-3792"
-// }
